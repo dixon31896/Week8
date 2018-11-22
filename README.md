@@ -18,14 +18,14 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: SQL Injection
 
--Upon checking the information page for a salesperson, we can use a SQLi as a value for the ID. For example : `' OR SLEEP(5)=0--'`
+- Upon checking the information page for a salesperson, we can use a SQLi as a value for the ID. For example : `' OR SLEEP(5)=0--'`
 
 ![](SQLiBlue.gif)
 
 
 Vulnerability #2: Session Hijacking/Fixation
 
--As long as we can get the sessionid of the administrator then we can login using any user or password as long as we change the sessionid to the administrator's.
+- As long as we can get the sessionid of the administrator then we can login using any user or password as long as we change the sessionid to the administrator's.
 
 ![](SessionHijackingBlue.gif)
 
