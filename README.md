@@ -20,21 +20,21 @@ Vulnerability #1: SQL Injection
 ![](SQLiBlue.gif)
 
 Vulnerability #2: Session Hijacking/Fixation
-
+![](SessionHijackingBlue.gif)
 
 ## Green
 
 Vulnerability #1: Username Enumeration
-
+![](UserEnumGreen.gif)
 Vulnerability #2: Cross-Site Scripting
-
+![](XSSGreen.gif)
 
 ## Red
 
 Vulnerability #1: Insecure Direct Object Reference
-
+![](IDORRed.gif)
 Vulnerability #2: Cross-Site Request Forgery 
-
+![](CSRFRed.gif)
 
 ## Notes
 
