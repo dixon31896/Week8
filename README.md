@@ -17,6 +17,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: SQL Injection
+![](https://github.com/dixon31896/Week8/blob/master/SQLiRed.gif)
 
 Vulnerability #2: Session Hijacking/Fixation
 
